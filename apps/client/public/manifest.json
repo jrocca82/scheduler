@@ -1,0 +1,27 @@
+{
+  "name": "Rocca Teacher",
+  "short_name": "Rocca",
+  "description": "Rocca Teacher PWA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#153131",
+  "icons": [
+    {
+      "src": "/logo2-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo2-500x500.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo2-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

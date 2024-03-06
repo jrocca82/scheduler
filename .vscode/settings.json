@@ -1,0 +1,8 @@
+{
+  "cSpell.words": [
+    "scheduler",
+    "Splide",
+    "trpc"
+  ],
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
